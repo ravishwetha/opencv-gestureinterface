@@ -23,3 +23,9 @@ http://creat-tabu.blogspot.com/2013/08/opencv-python-hand-gesture-recognition.ht
 4. Mahaveerverma's hand gesture recognition project:
 [hand-gesture-recognition-opencv](https://github.com/mahaveerverma/hand-gesture-recognition-opencv)
 
+
+----------------------
+## Demos (this project is still user-unfriendly so the these demo videos are done with quite a bit of setup time)
+
+1. Playing Amorphous+ with gestures: https://www.youtube.com/watch?v=rkAubNhL4Cw
+2. Playing Bubble Shooter with gestures: https://www.youtube.com/watch?v=bFEmi39Bfg4
