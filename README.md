@@ -4,6 +4,7 @@
 - Librarys: 
 	- OpenCV 3
 	- appscript
+	- pyautogui
 
 ## How to run it?
 - run it in python
@@ -14,10 +15,11 @@
 ----------------------
 ## References & Tutorials
 
-1. OpenCV documentation: 
+1. Izane's project: https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python
+2. OpenCV documentation: 
 http://docs.opencv.org/2.4.13/
-2. Opencv python hand gesture recognition:
+3. Opencv python hand gesture recognition:
 http://creat-tabu.blogspot.com/2013/08/opencv-python-hand-gesture-recognition.html
-3. Mahaveerverma's hand gesture recognition project:
+4. Mahaveerverma's hand gesture recognition project:
 [hand-gesture-recognition-opencv](https://github.com/mahaveerverma/hand-gesture-recognition-opencv)
 
