@@ -25,7 +25,7 @@ http://creat-tabu.blogspot.com/2013/08/opencv-python-hand-gesture-recognition.ht
 
 
 ----------------------
-## Demos (this project is still user-unfriendly so the these demo videos are done with quite a bit of setup time)
+## Demos (this project is still user-unfriendly so these demo videos are done with quite a bit of setup time)
 
 1. Playing Amorphous+ with gestures: https://www.youtube.com/watch?v=rkAubNhL4Cw
 2. Playing Bubble Shooter with gestures: https://www.youtube.com/watch?v=bFEmi39Bfg4
